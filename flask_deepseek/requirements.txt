@@ -1,0 +1,8 @@
+flask
+openai
+langchain
+langchain-community
+pymilvus
+langchain_openai
+sentence-transformers
+langchain-huggingface
